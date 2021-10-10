@@ -1,8 +1,8 @@
 class Bebop < Formula
   desc "API docs generation for Swift and Objective-C"
   homepage "https://github.com/johnfairh/Bebop"
-  url "https://github.com/johnfairh/Bebop/archive/v1.8.0.tar.gz"
-  sha256 "1c78d30d2436d37dd224f11664fb46e22b86478bf2c8f003b57959b1cb45b6c8"
+  url "https://github.com/johnfairh/Bebop/archive/v1.8.1.tar.gz"
+  sha256 "6e3fa63e26362d2acb69982d3dc6b35722eeacc089a42abc35d8428e046935e3"
   license "MIT"
 
   depends_on "libsass"
